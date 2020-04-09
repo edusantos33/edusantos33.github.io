@@ -1,15 +1,18 @@
 ## Veja os golpes que estão ocorrendo na Internet - PHISHING
 
 Fala ai, pessoal! Tudo bem?
-Crimos essa página aqui para dar publicidade ao máximo número de campanhas falsas de e-mail, mensagens no Whatsapp, SMS, aquilo que possa ser usado para dar um golpe em alguém a fim de cometer um ato ilícito. E pretendemos colocar links verdadeiros de possíveis 
+
+Criamos essa página para dar publicidade ao máximo número de campanhas falsas de e-mail, mensagens no Whatsapp, SMS e aquilo que possa ser usado para dar um golpe em alguém (no meio digital) a fim de cometer um ato ilícito. E pretendemos colocar links os possíveis links verdadeiros das promoções e ações. 
 
 Fiquem a vontade para enviar conteúdos ao e-mail [projetoehfalso@gmail.com](mailto:projetoehfalso@gmail.com) ou fazendo um PR aqui no projeto. 
 
-O objetivo é que seja algo mais colaborativo possível e só será possível com a ajuda de "todo mundo" que receber algo malicioso ou suspeito e me enviar para conferirmos juntos.
+O objetivo é que seja algo mais colaborativo possível e só será possível com a ajuda de "todo mundo" que receber algo malicioso ou suspeito e nos enviar, assim conferiremos e postaremos aqui.
 
-A ideia inicial é fazer manual e ir postando aqui, mas posteriormente tentar automatizar isso de alguma forma.
+Inicialmente estaremos fazendo as análises e os posts manualmente, mas a ideia é posteriormente tentar automatizar isso de alguma forma.
 
-_Essa ideia saiu de uma conversa de um grupo de WhatsApp com o mestre Werneck ;)_
+Obs: _Essa ideia saiu de uma conversa de um grupo de WhatsApp com o mestre Werneck ;)_
+
+Abraços e vamos nessa!
   
 <br/>
 <br/>
