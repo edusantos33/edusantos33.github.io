@@ -46,11 +46,9 @@ Depois de fazer o cadastro, a pessoa pode acompanhar se vai receber o auxílio e
 
 Links do APP CAIXA Auxilio Emergencial para o público-alvo da ação baixar, se cadastrar e receber os 600 reais:
 
-📱 Android:
-https://play.google.com/store/apps/details?id=br.gov.caixa.auxilio 
+📱 [Android:](https://play.google.com/store/apps/details?id=br.gov.caixa.auxilio) https://play.google.com/store/apps/details?id=br.gov.caixa.auxilio
 
-📱 IOS (iPhone):
-https://apps.apple.com/br/app/caixa-aux%C3%ADlio-emergencial/id1506494331
+📱 [IOS (iPhone):](https://apps.apple.com/br/app/caixa-aux%C3%ADlio-emergencial/id1506494331) https://apps.apple.com/br/app/caixa-aux%C3%ADlio-emergencial/id1506494331
   
 <br/>
 <br/>
