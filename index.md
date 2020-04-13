@@ -25,8 +25,7 @@ Fazem perguntas se a pessa está passando por dificuldades nesse momento, se tem
  Abaixo o link enviado por essa corrente no WhatsApp.
   [https://atacadao.acaosocial.online/reserve/?cestabasica](https://atacadao[.]acaosocial[.]online/reserve/?cestabasica)
   
-   <img src="atacadao.PNG" width="350" height="400">
-   <img src="atacadao2.PNG" width="350" height="400">
+   <img src="atacadao.PNG" width="350" height="400"> | <img src="atacadao2.PNG" width="350" height="400">
   
 
 Não conseguimos identificar o objetivo deste golpe, se seria para roubar dados ou pela contabilização de cliques na página.
