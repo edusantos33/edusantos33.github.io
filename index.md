@@ -4,7 +4,7 @@ Fala ai, pessoal! Tudo bem?
 
 Criamos essa página para dar publicidade ao máximo número de campanhas falsas de e-mail, mensagens no Whatsapp, SMS e aquilo que possa ser usado para dar um golpe em alguém (no meio digital) a fim de cometer um ato ilícito. E pretendemos colocar links os possíveis links verdadeiros das promoções e ações. 
 
-Fiquem a vontade para enviar conteúdos ao e-mail [projetoehfalso@gmail.com](mailto:projetoehfalso@gmail.com) ou fazendo um PR aqui no projeto. 
+Fiquem a vontade para enviar conteúdos ao e-mail [projetoehfalso@gmail.com](mailto:projetoehfalso@gmail.com) ou fazendo um PR (_Pull Request_) aqui no [projeto](https://github.com/edusantos33/edusantos33.github.io). 
 
 O objetivo é que seja algo mais colaborativo possível e só será possível com a ajuda de "todo mundo" que receber algo malicioso ou suspeito e nos enviar, assim conferiremos e postaremos aqui.
 
