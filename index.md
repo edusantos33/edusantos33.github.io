@@ -17,6 +17,17 @@ Abraços e vamos nessa!
 <br/>
 <br/>
   
+### FALSO: ATACADÃO doando 250.00 Cestas Básicas
+Fazem perguntas se a pessa está passando por dificuldades nesse momento, se tem criança em casa e depois pede para que você compartilhe a mensagem abaixo no WhatsApp e redireciona a página para uma página que não está mais ativa no momento: https://atacadao[.]acaosocial[.]online/reserve/compsatacadao.html
+ 
+ _Em solidariedade a todas as Famílias que estão passando por necessidades por conta do Corona Vírus, nós da REDE ATACADÃO estamos DOANDO mais de 250.000 CESTAS BÁSICAS!_
+  
+ Abaixo o link enviado por essa corrente no WhatsApp.
+  [https://atacadao.acaosocial.online/reserve/?cestabasica](https://atacadao[.]acaosocial[.]online/reserve/?cestabasica)
+  
+
+Agradeço ao Werneck Costa por ter enviado essa contribuição.  
+  
 ### É falso que Cacau Show está distribuindo 5 mil ovos de páscoa para quem se cadastra em site
 Golpe com o obejtivo de roubar dados pessoais.
 
