@@ -14,6 +14,20 @@ Obs: _Essa ideia saiu de uma conversa de um grupo de WhatsApp com o mestre Werne
 
 Abraços e vamos nessa!
   
+  
+<br/>
+<br/>
+ 
+### CUIDADO: E-mails com extorsão e informações de senha
+Em letras menores, o que anda ocorrendo é o Sextorsão (do termo em inglês sextorsion),  o qual designa a prática de extorsão a partir da ameaça de exposição de 'supostas' fotos ou vídeos sexuais das vítimas na Internet. Os criminosos intimam divulgar o material a amigos e parentes caso a pessoa não cumpra o favor pedido dentro de um curto período de tempo. Algumas vezes, os golpistas não têm qualquer conteúdo comprometedor da vítima em mãos, mas utilizam mecanismos bastante convincentes para que ela realmente acredite no golpe. 
+
+Alguns golpistas aprimoraram a técnica de modo, que a vitima recebe um email com o seguinte padrão, exemplo: "Estou bem ciente de que XXXXXXXXX é a sua senha". Com a diferença, é claro, que no lugar dos X está a sua combinação verdadeira de alguma senha vazada do usuário. 
+Esse texto é da publicação do [Blog MrCl0wn](https://blog.mrcl0wn.com/2020/04/body-web-sextortion-webcam-blackmail.html), o qual possui mais detalhes técnicos (vale a leitura).
+
+Apesar de não ser um e-mail phishing novo, recebi dois e-mails em 15 dias (ainda bem que o provedor do e-mail reconheceu como sendo um Spam). Segue o último.
+
+<img src="sextorsion1.png">
+
 <br/>
 <br/>
  
@@ -27,6 +41,8 @@ Segue abaixo alguns exemplos.
 
 em breve
 
+
+PS: O Vitor Melo escreveu um texto sobre esse golpe, o Smishing, no [blog dele](https://vitormelo.blog.br/aquele-sms-maroto/)
 <br/>
 <br/>
 
