@@ -16,7 +16,20 @@ Abraços e vamos nessa!
   
 <br/>
 <br/>
-  
+ 
+### CUIDADO: SMS também é um canal para ROUBAR informações
+
+Faz um tempo que vejo pessoas receberam SMS com algum link falso para "atualizar" dados cadastrais ou recadastre algum dado, caso não a conta ou o cartão será bloqueado. Normalmente são SMS se passando por instituições financeiras.
+FIQUEM ATENTOS! Bancos não solicitam essas informações por SMS, ainda mais vindo de números "comuns".
+
+Nossa equipe não abriu os links enviados dessa vez, mas pelo domínio (o link que enviam) já se mostra falso.
+Segue abaixo alguns exemplos.
+
+em breve
+
+<br/>
+<br/>
+
 ### FALSO: ATACADÃO doando 250.00 Cestas Básicas
 Fazem perguntas se a pessa está passando por dificuldades nesse momento, se tem criança em casa e depois pede para que você compartilhe a mensagem abaixo no WhatsApp e redireciona a página para uma página que não está mais ativa no momento: https://atacadao[.]acaosocial[.]online/reserve/compsatacadao.html
 
