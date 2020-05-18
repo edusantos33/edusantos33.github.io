@@ -116,3 +116,5 @@ Exemplos:
 ![iFood](https://1.bp.blogspot.com/-o4qg7l_fy8A/Xn-tm73zWKI/AAAAAAAAHjs/VDS4zHqfZzE75KYQZNR18Zv60fNLPEJDwCLcBGAsYHQ/s320/phishing%2Bifood%2B2.jpeg) | ![Link falso do Governo](https://1.bp.blogspot.com/-HBcrZUT8BAo/Xn-tqmZtH-I/AAAAAAAAHjw/lYX2K6-dAyYvS5mXlR1dozEtFpEi5d4WgCLcBGAsYHQ/s320/phishing%2Bcadastro.jpeg)
 
 ![Link falso do Governo](https://1.bp.blogspot.com/-3LGDBCWPUpA/XnkaXnmvKtI/AAAAAAAAHdU/VI7aiJHlJ0Aa-1Vc3k8InLS4doipeiM5QCLcBGAsYHQ/s320/phishing%2Bauxilio%2Bcidadao.jpg) | ![Link falso do Banco do Brasil](https://1.bp.blogspot.com/-d0NF2qUULt8/Xn6CexRa_QI/AAAAAAAAHjI/YDUj6EvoZCQq5FgqXXYvCnGAtafbaAoFgCLcBGAsYHQ/s320/phishing%2Bcovid%2BBB.jpg)
+
+![Promoção falsa do Carrefour](https://imgur.com/nTwxecRl.png)
